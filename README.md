@@ -21,8 +21,11 @@ Allpack.zip의 내용물중 BeplnEx폴더를 C:￦SteamLibary￦steamapps\common
 
 #모드&플러그인 git 주소
 https://github.com/BepInEx/BepInEx/releases
+
 https://github.com/IllusionMods/BepisPlugins/releases
+
 https://github.com/bbepis/XUnity.AutoTranslator/releases
+
 http://cafe.naver.com/koikatu/680
 
 ## 기존의 다른 유저의 코이카츠 한글번역을 참고하여 브이카츠를 재 번역하였습니다
