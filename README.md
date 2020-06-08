@@ -1,6 +1,7 @@
 # V-katsu-translate
 
-# 적용 url 
+# 동영상 강좌
+https://youtu.be/UNnJZWe8Zxg 
 
 # 적용 방법
 ## 1.BepInEx.Patcher 압축을 해제하여 C:￦SteamLibary￦steamapps\common\v_katsu 경로에 풀어줍니다
