@@ -20,6 +20,7 @@
 Allpack.zip의 내용물중 BeplnEx폴더를 C:￦SteamLibary￦steamapps\common\v_katsu경로에 풀어줍니다
 
 #모드&플러그인 git 주소
+
 https://github.com/BepInEx/BepInEx/releases
 
 https://github.com/IllusionMods/BepisPlugins/releases
