@@ -18,6 +18,7 @@ https://youtu.be/UNnJZWe8Zxg
 
 
 # 빠른 적용법
+1번째파일의 실행파일을 코이카츠폴더에 압축해제후 실
 Allpack.zip의 내용물중 BeplnEx폴더를 C:￦SteamLibary￦steamapps\common\v_katsu경로에 풀어줍니다
 
 #모드&플러그인 git 주소
